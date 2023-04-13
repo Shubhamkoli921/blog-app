@@ -1,0 +1,8 @@
+node_modules
+mongo-db-data
+credentials.json
+
+.env
+app.yaml
+pro.env.yaml
+build
