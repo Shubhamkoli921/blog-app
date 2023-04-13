@@ -1,3 +1,3 @@
 # blog-app
 
-main branch consist of front end part of blog app while master branch consist of backend part of blog app.
+main branch consist front end part of the blog app while master branch consist backend part of the blog app.
